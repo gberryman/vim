@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/geoffrey.berryman/Documents/gis_backup'
+let g:netrw_dirhist_2='/Users/geoffrey.berryman/Documents/sbt_test/SparkScalaTest'
+let g:netrw_dirhist_3='/Users/geoffrey.berryman/.ssh'
+let g:netrw_dirhist_4='/Users/geoffrey.berryman/.cups'
